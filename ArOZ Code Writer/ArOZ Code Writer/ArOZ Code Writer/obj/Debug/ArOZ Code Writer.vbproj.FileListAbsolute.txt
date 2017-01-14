@@ -1,0 +1,10 @@
+D:\WTC\DesktopWTC\WTC\ArOZ\ArOZ User Interface Beta\ArOZ Code Writer\ArOZ Code Writer\ArOZ Code Writer\bin\Debug\ArOZ Code Writer.exe
+D:\WTC\DesktopWTC\WTC\ArOZ\ArOZ User Interface Beta\ArOZ Code Writer\ArOZ Code Writer\ArOZ Code Writer\bin\Debug\ArOZ Code Writer.pdb
+D:\WTC\DesktopWTC\WTC\ArOZ\ArOZ User Interface Beta\ArOZ Code Writer\ArOZ Code Writer\ArOZ Code Writer\bin\Debug\ArOZ Code Writer.xml
+D:\WTC\DesktopWTC\WTC\ArOZ\ArOZ User Interface Beta\ArOZ Code Writer\ArOZ Code Writer\ArOZ Code Writer\obj\Debug\ResolveAssemblyReference.cache
+D:\WTC\DesktopWTC\WTC\ArOZ\ArOZ User Interface Beta\ArOZ Code Writer\ArOZ Code Writer\ArOZ Code Writer\obj\Debug\ArOZ_Code_Writer.Form1.resources
+D:\WTC\DesktopWTC\WTC\ArOZ\ArOZ User Interface Beta\ArOZ Code Writer\ArOZ Code Writer\ArOZ Code Writer\obj\Debug\ArOZ_Code_Writer.Resources.resources
+D:\WTC\DesktopWTC\WTC\ArOZ\ArOZ User Interface Beta\ArOZ Code Writer\ArOZ Code Writer\ArOZ Code Writer\obj\Debug\ArOZ Code Writer.vbproj.GenerateResource.Cache
+D:\WTC\DesktopWTC\WTC\ArOZ\ArOZ User Interface Beta\ArOZ Code Writer\ArOZ Code Writer\ArOZ Code Writer\obj\Debug\ArOZ Code Writer.exe
+D:\WTC\DesktopWTC\WTC\ArOZ\ArOZ User Interface Beta\ArOZ Code Writer\ArOZ Code Writer\ArOZ Code Writer\obj\Debug\ArOZ Code Writer.xml
+D:\WTC\DesktopWTC\WTC\ArOZ\ArOZ User Interface Beta\ArOZ Code Writer\ArOZ Code Writer\ArOZ Code Writer\obj\Debug\ArOZ Code Writer.pdb
