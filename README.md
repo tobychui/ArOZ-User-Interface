@@ -1,6 +1,13 @@
 # ArOZ-User-Interface
-##Introduction
+## Introduction
 ArOZ User Interface is a VB.net based interface that make a cartoon character stand on your desktop. Supported with ArOZ Script (which is a self developed lanuage that make it perform a certain action) and plugins, ArOZ can help you with your daily work and chat with you when you are tired.
 
-##Development Version
+## Development Version
 Recommend downloading the Omega Version, the previous two version was experimental testing with different personality.
+
+## Preview
+Main Menu and Plugin menu
+<img src="https://raw.githubusercontent.com/tobychui/ArOZ-User-Interface/master/preview/2017-03-23_11-12-57.png">
+
+Cloth editing interface
+<img src="https://raw.githubusercontent.com/tobychui/ArOZ-User-Interface/master/preview/2017-03-23_11-13-06.png">
